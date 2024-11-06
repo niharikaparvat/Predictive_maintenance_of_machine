@@ -84,7 +84,3 @@ predictive-maintenance/
 │   └── predict.py
 └── requirements.txt
 ```
-
-## Contributing
-
-Feel free to fork this repository, make improvements, and open pull requests. If you encounter any issues or bugs, please open an issue in the repository.
